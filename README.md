@@ -9,7 +9,7 @@ This research addresses the gap in Text-to-SQL systems for low-resource language
 - Evaluating adaptation strategies for LRLs using Chichewa (spoken by 12M+ people)
 
 ### Note
-- `data` folder contains a small-scale Chichewa benchmark. 
+- `data` folder contains a small-scale Chichewa benchmark. It is important to note that the Spider 1.0 dataset alongside the provided data as shown in the notebooks.
 - `docs` folder contains the complete thesis and tables of results 
 - `notebooks` folder contains codes of all the experiments carried out
 
